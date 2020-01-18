@@ -1,3 +1,4 @@
+package nhon_assignment01;
 
 public class HelloWorld {
 
